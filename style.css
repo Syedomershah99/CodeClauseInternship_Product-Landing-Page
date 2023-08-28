@@ -29,11 +29,11 @@
 
 .section1{
    max-height: 100vh; 
-   color: #711e15;
+   color: #222007;
 }
 
 .section1 h1{
-    color: #37110d;
+    color: #171a05;
     font-size: 2rem;
 }
 
@@ -66,7 +66,7 @@
     padding: 8px 0;
     margin: 12px 22px;
     min-width: 20vw;
-    border: 2px solid rgb(120, 54, 16);
+    border: 2px solid rgb(75, 201, 50);
     border-radius: 8px;
     text-align: center;
 }
@@ -104,12 +104,12 @@
 
 .section3 table th{ 
     width: 23vw; 
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgb(248, 25, 218);
     padding: 15px 0;
 } 
 
 .section3 table td{   
-    border-bottom: 2px solid black; 
+    border-bottom: 2px solid rgb(243, 31, 250); 
 } 
  
 
